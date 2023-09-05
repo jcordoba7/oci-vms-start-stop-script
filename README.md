@@ -1,5 +1,11 @@
 ## oci-vms-start-stop-script
 This script can help you to schedule the starting and stoping for compute instances in OCI, based on **key-value tags** over each resource.
+
+### Prerrequisites
+  1. It is important to remember that you need an active server on which execute the scripts at the desired scheduled hours.
+  2. In this server you must have installed and configured the OCI CLI component. (https://docs.oracle.com/en-us/iaas/Content/API/SDKDocs/cliinstall.htm)
+
+### Process details
 The files _"script-start.sh"_ and _"script-stop.sh"_ may remain in the _**/home/opc**_ location of the machine on which these scripts are executed.
 
 In the case of the crontab it can be something like this:
