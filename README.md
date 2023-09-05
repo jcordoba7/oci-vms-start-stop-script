@@ -1,5 +1,5 @@
 # Scripts to Start and Stop compute instances on Oracle Cloud Infrastructure
-Thess scripts can help you to schedule the starting and stoping for compute instances in OCI, based on _**key-value tags**_ over each resource.
+These scripts can help you to schedule the starting and stoping for compute instances in OCI, based on _**key-value tags**_ over each resource.
 
 ### Prerrequisites
   1. It is important to remember that you need an active server on which execute the scripts at the desired scheduled hours.
