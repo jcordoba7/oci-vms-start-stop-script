@@ -1,4 +1,4 @@
-## oci-vms-start-stop-script
+# oci-vms-start-stop-script
 This script can help you to schedule the starting and stoping for compute instances in OCI, based on **key-value tags** over each resource.
 
 ### Prerrequisites
