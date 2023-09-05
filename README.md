@@ -25,4 +25,4 @@ The resources that we want to manipulate with these scripts must have the follow
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://github.com/jcordoba7/oci-vms-start-stop-script/blob/main/key-value-tag-sample.png)
 
 > [!NOTE]
-> ¡Hope it will be useful for you!.
+> ¡¡Hope it will be useful for you!!
