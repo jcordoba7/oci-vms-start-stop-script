@@ -8,7 +8,7 @@ These scripts can help you to schedule the starting and stoping for compute inst
 ### Process details
 The files _**"script-start.sh"**_ and _**"script-stop.sh"**_ may remain in the _**/home/opc**_ location of the machine on which these scripts are executed.
 
-In the case of the crontab, it can be something like this:
+In the case of the _crontab_, it can be something like this:
 ```
 # SHELL=/bin/bash
 # PATH=/sbin:/bin:/usr/sbin:/usr/bin
