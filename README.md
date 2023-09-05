@@ -1,4 +1,4 @@
-# oci-vms-start-stop-script
+# Scripts to Start and Stop compute instances on Oracle Cloud Infraestructure
 This script can help you to schedule the starting and stoping for compute instances in OCI, based on _**key-value tags**_ over each resource.
 
 ### Prerrequisites
